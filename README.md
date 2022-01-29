@@ -48,14 +48,14 @@ Ans: Using the new_airbnb table and counting all the property having value great
 ## Q5
 Create a table with max, min and average price of each property
 
-Ans: Used different aggregate function on airbnb1 table which are available and grouping them with listing_id to return the table with max, min and avg value. [Query](https://github.com/Shubham-Sigmoid044/SQL-Assignment/blob/main/q5-min-max-avg)
+Ans: Used different aggregate function on airbnb1 table which are available and grouping them with listing_id to return the table with max, min and avg value. [Query](https://github.com/Shubham-Sigmoid044/SQL-Assignment/blob/main/q5-min-max-avg.sql)
 
 ![image](https://user-images.githubusercontent.com/98617328/151656828-da5cd324-51c6-4cf9-9a47-faa701289bb0.png)
 
 ## Q6
 Extract properties with an average price of more than $500.
 
-Ans: Used avg aggregate function on airbnb1 table which are available and grouping them with listing_id and filtering avg greater than $500. [Query](https://github.com/Shubham-Sigmoid044/SQL-Assignment/blob/main/q6)
+Ans: Used avg aggregate function on airbnb1 table which are available and grouping them with listing_id and filtering avg greater than $500. [Query](https://github.com/Shubham-Sigmoid044/SQL-Assignment/blob/main/q6.sql)
 
 ![image](https://user-images.githubusercontent.com/98617328/151656874-cb6fbfc6-1d96-4bbd-b64b-e644c8ceeb7c.png)
 

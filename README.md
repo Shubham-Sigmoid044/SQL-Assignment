@@ -36,7 +36,7 @@ Ans: For this I created two table containg available_days and unavailable days f
 ## Q4
 How many properties were available on more than 50% of the days? How many properties were available on more than 75% of the days?
 
-Ans: Using the new_airbnb table and counting all the property having value greater than given fraction. [Query](https://github.com/Shubham-Sigmoid044/SQL-Assignment/blob/main/q4)
+Ans: Using the new_airbnb table and counting all the property having value greater than given fraction. [Query](https://github.com/Shubham-Sigmoid044/SQL-Assignment/blob/main/q4.sql)
 
 ## Properties were available on more than 50% of the days
 ![image](https://user-images.githubusercontent.com/98617328/151656700-28a2f197-515c-4b31-8952-34d613d0c5b7.png)

@@ -2,9 +2,20 @@
 Shubham Kumar SQL-Assignment
 
 
+## Q1 
+What is the time period used?
+
+Ans: Here date time period is used in 'date' column as the given format is yyyy-mm-dd.
+
+
+## Q2
+How many properties have duplicate entries? Remove duplicate rows (say a row appears 3 times, remove 2 and keep 1)
+Ans: There are total of 365 rows having duplicate values and with listing_id of 12898806.
+Find query here --> []
+
 ![image](https://user-images.githubusercontent.com/98617328/151655499-4801c3ce-f16c-41d2-93b1-0ab34d6f1ab0.png)
 
-
+Created a new table airbnb1 after removing the duplicate table and inserting into airbnb1;
 
 Airbnb1
 ![image](https://user-images.githubusercontent.com/98617328/151655632-9ad0971a-74e0-4705-be41-b156ce81ee11.png)

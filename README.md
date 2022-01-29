@@ -11,7 +11,7 @@ Ans: Here date time period is used in 'date' column as the given format is yyyy-
 ## Q2
 How many properties have duplicate entries? Remove duplicate rows (say a row appears 3 times, remove 2 and keep 1)
 Ans: There are total of 365 rows having duplicate values and with listing_id of 12898806.
-Find query here --> []
+Find query here --> ![q2-duplicate.sql]
 
 ![image](https://user-images.githubusercontent.com/98617328/151655499-4801c3ce-f16c-41d2-93b1-0ab34d6f1ab0.png)
 

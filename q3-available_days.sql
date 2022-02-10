@@ -83,4 +83,14 @@ full outer join unavail_airbnb on avail_airbnb.listing_id = unavail_airbnb.listi
 
 
 
+-- Use Case and switch to solve
+select listing_id, count(case when available = 't' then 1 end) as "Available Days",
+count(case when available = 'f' then 1 end) as "Unavailable Days", 
+count(case when available = 't' then 1 end)/count(*) as "Available fraction of Total Days"
+from airbnb1 group by listing_id
+order by listing_id;
+
+
+
+
 select * from new_airbnb;
